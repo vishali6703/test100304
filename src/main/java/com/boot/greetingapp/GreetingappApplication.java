@@ -25,4 +25,5 @@ public class GreetingappApplication {
 		return "hello from spring boot greeting app";
 	}
 
+
 }
